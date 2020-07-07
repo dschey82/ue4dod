@@ -1,0 +1,9 @@
+*.VC.db
+*.pdb
+*.dll
+*.uasset
+Intermediate/*
+Saved/*
+Binaries/*
+Content/*
+*.suo
